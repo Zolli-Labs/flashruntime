@@ -1,3 +1,22 @@
+> ## This repository has moved
+>
+> Development continues in **[Zolli-Labs/flashml](https://github.com/Zolli-Labs/flashml)**,
+> which holds `flashruntime`, `flashnode`, and the federated example together.
+>
+> This repository is **archived and read-only**. It is not deleted, and it never
+> will be: existing clones and any `pip install git+https://...` pointing here
+> keep working. It simply receives no further changes.
+>
+> **New installs should use the new home.** Once the packages are published:
+>
+> ```bash
+> pip install flashnode
+> ```
+>
+> Until then, follow the instructions shown in the FlashML console.
+>
+> ---
+>
 # FlashRuntime
 
 > **The open fault-tolerant distributed ML runtime.** FlashRuntime *operates*
